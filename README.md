@@ -18,7 +18,7 @@
 <!-- LOGO DO PROJETO -->
 <br />
 <div align="center">
-  <a href="https://github.com/Ozaky/Azure">
+  <a href="https://github.com/Ozakye/Azure/blob/main/README.md">
     <img src="images/Microsoft_Azure.svg.png" alt="Logo" width="80" height="80">
   </a>
 
