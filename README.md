@@ -1,180 +1,147 @@
+<!-- VOLTAR AO TOPO -->
 <a id="readme-top"></a>
 
 
 
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
+<!-- SHIELDS.IO -->
+[![Última atualização][last-commit-shield]][repo-url]
+[![Versão][version-shield]][repo-url]
+[![Status][status-shield]][repo-url]  
 [![Stargazers][stars-shield]][stars-url]
 [![project_license][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
+[![Azure][azure-shield]][azure-url]
+[![Microsoft Learn][learn-shield]][learn-url]
 
 
 
-<!-- PROJECT LOGO -->
+<!-- LOGO DO PROJETO -->
 <br />
 <div align="center">
   <a href="https://github.com/Ozaky/Azure">
     <img src="images/Microsoft_Azure.svg.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">Azure</h3>
 
   <p align="center">
-    project_description
+    Guia de estudos
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/ozakye/Azure"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://github.com/ozakye/Azure">View Demo</a>
     &middot;
-    <a href="https://github.com/github_username/repo_name/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    <a href="https://github.com/ozakye/Azure/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     &middot;
-    <a href="https://github.com/github_username/repo_name/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <a href="https://github.com/ozakye/Azure/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
   </p>
 </div>
 
 
 
-<!-- TABLE OF CONTENTS -->
+<!-- SUMÁRIO -->
 <details>
-  <summary>Table of Contents</summary>
+  <summary>Sumário</summary>
   <ol>
     <li>
       <a href="#sobre-o-projeto">Sobre o Projeto</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
     </li>
     <li>
       <a href="#atualização-do-guia">Atualização do Guia</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#microsoft-learn">Microsoft Learn</a></li>
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li><a href="#guia-de-estudos">Guia de Estudos</a></li>
   </ol>
 </details>
 
 
 
-<!-- ABOUT THE PROJECT -->
+<!-- SOBRE O PROJETO -->
 ## Sobre o Projeto
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started. To avoid retyping too much info, do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`, `project_license`
+Este repositório foi desenvolvido como parte dos desafios finais do bootcamp [Microsoft – Azure Administrator Certification (AZ-104)](https://www.dio.me/bootcamp/microsoft-az-104-certification), com o objetivo de consolidar os conhecimentos adquiridos e criar um guia de estudos voltado a novos alunos, instrutores e demais interessados na área.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+Aqui, você encontrará conteúdos organizados por módulos, abordando temas relevantes relacionados ao Microsoft Azure e ao ambiente de computação em nuvem, com base nas trilhas propostas durante o curso.
 
+A proposta é que este material sirva como um recurso complementar para consulta, revisão e aprofundamento, além de representar meu progresso ao longo do bootcamp.
 
+Gostaria também de destacar a qualidade dos cursos oferecidos pela [DIO (Digital Innovation One)](https://www.dio.me/), que combina aulas teóricas, desafios práticos, lives com profissionais e mentorias, de forma acessível, atualizada e alinhada às demandas do mercado.
 
-### Built With
-
-* ![Microsoft Azure](.images/Microsoft_Azure.svg.png)
-* ![Microsoft Entra ID](.images/Microsoft_Azure.svg.png)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
 
 
 
-<!-- GETTING STARTED -->
+<!-- ATUALIZAÇÃO DO GUIA -->
 ## Atualização do Guia
 
-A computação em nuvem e os ambientes de nuvem estão sempre em constante evolução, por isso é recomendado verificar a data de publicação dos materiais. Em poucos meses este material pode estar desatualizado por esses motivos. O melhor método seguro para se manter atualizado é sempre checando novidades e atualizações nos sites da Microsoft sobre o Azure. Em caso de dúvidas, leia a documentação oficial em primeiro lugar.
+Os ambientes de computação em nuvem estão em constante evolução. Por esse motivo, é recomendável sempre verificar a data de publicação dos materiais consultados, pois em poucos meses o conteúdo pode se tornar desatualizado.
 
-Última atualização: 23/06/2025
+A forma mais segura de se manter informado é acompanhar regularmente as novidades e atualizações nos sites oficiais da Microsoft sobre o Azure. Em caso de dúvidas, a documentação oficial da Microsoft deve ser sua principal fonte de consulta.
 
+
+
+<!-- MICROSOFT LEARN -->
 ### Microsoft Learn
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
+O site oficial do [Microsoft Learn](https://learn.microsoft.com/) fornece as últimas mudanças e atualizações sobre os produtos da Microsoft. A plataforma também disponibiliza diversos cursos, além das documentações oficiais. Não deixe de conferir também o [guia de estudos](https://learn.microsoft.com/pt-br/credentials/certifications/resources/study-guides/ai-102) para certificações da Microsoft.
 
-### Links
-
-* 1
-* 
-* 
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
 
 
 
-<!-- USAGE EXAMPLES -->
-## Usage
+<!-- ACESSO AO GUIA -->
+## Acesso ao Guia
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+Para acessar o guia de estudos, navegue pelas pastas do repositório e selecione o tema que deseja estudar. Os módulos estão organizados por temas e subdivididos em tópicos, conforme suas respectivas pastas.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
 
 
 
-<!-- ROADMAP -->
-## Roadmap
+<!-- GUIA DE ESTUDOS -->
+## Guia de Estudos
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
+- [ ] [AZ-900](https://learn.microsoft.com/pt-br/credentials/certifications/resources/study-guides/az-900) (Em breve)
+- [ ] [AZ-104](https://learn.microsoft.com/pt-br/credentials/certifications/resources/study-guides/az-104)
+    - [ ] Gerenciamento de VMs
+    - [ ] Monitoramento
 
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
+Veja a [lista completa](https://learn.microsoft.com/pt-br/credentials/certifications/resources/study-guides/ai-102) de guia de estudos para certificações no site oficial da Microsoft.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-* []()
-* []()
-* []()
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
 
 
 
-<!-- MARKDOWN LINKS & IMAGES -->
+<!-- CERTIFICAÇÕES -->
+## Certificações
+
+* [AZ-900]() (Em breve)
+* [AZ-104]() (Em breve)
+
+<p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
+
+
+
+<!-- MARKDOWN LINKS & IMAGENS -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
-[contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
-[forks-url]: https://github.com/github_username/repo_name/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo_name.svg?style=for-the-badge
-[stars-url]: https://github.com/github_username/repo_name/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
-[issues-url]: https://github.com/github_username/repo_name/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
-[license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
+[stars-shield]: https://img.shields.io/github/stars/ozakye/Azure.svg?style=for-the-badge
+[stars-url]: https://github.com/ozakye/Azure/stargazers
+[license-shield]: https://img.shields.io/github/license/ozakye/Azure.svg?style=for-the-badge
+[license-url]: https://github.com/ozakye/Azure/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/linkedin_username
+[linkedin-url]: https://linkedin.com/in/ozaky
 [product-screenshot]: images/screenshot.png
-[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-[Next-url]: https://nextjs.org/
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[React-url]: https://reactjs.org/
-[Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
-[Vue-url]: https://vuejs.org/
-[Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
-[Angular-url]: https://angular.io/
-[Svelte.dev]: https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
-[Svelte-url]: https://svelte.dev/
-[Laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
-[Laravel-url]: https://laravel.com
-[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
-[Bootstrap-url]: https://getbootstrap.com
-[JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
-[JQuery-url]: https://jquery.com 
+[last-commit-shield]: https://img.shields.io/github/last-commit/ozakye/Azure.svg?style=for-the-badge
+[repo-url]: https://github.com/ozakye/Azure
+[version-shield]: https://img.shields.io/badge/version-Jun_2025-blue?style=for-the-badge
+[status-shield]: https://img.shields.io/badge/status-em%20desenvolvimento-yellow?style=for-the-badge
+[azure-shield]: https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white
+[azure-url]: https://azure.microsoft.com
+[learn-shield]: https://img.shields.io/badge/Microsoft_Learn-00ADEF?style=for-the-badge&logo=microsoft&logoColor=white
+[learn-url]: https://learn.microsoft.com
