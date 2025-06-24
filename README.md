@@ -27,14 +27,14 @@
   <p align="center">
     Guia de estudos
     <br />
-    <a href="https://github.com/ozakye/Azure"><strong>Explore the docs »</strong></a>
+    <a href="https://learn.microsoft.com/en-us/credentials/browse"><strong>Procurar Credenciais »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/ozakye/Azure">View Demo</a>
+    <a href="https://learn.microsoft.com/en-us/credentials/browse/?credential_types=applied%20skills">Habilidades Aplicadas</a>
     &middot;
-    <a href="https://github.com/ozakye/Azure/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    <a href="https://arch-center.azureedge.net/Credentials/choose-your-microsoft-credential.pdf">Credentials x Applied Skills</a>
     &middot;
-    <a href="https://github.com/ozakye/Azure/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <a href="https://learn.microsoft.com/en-us/credentials/">Saiba Mais</a>
   </p>
 </div>
 
