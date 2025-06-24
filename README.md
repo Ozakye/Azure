@@ -55,6 +55,7 @@
     </li>
     <li><a href="#acesso-ao-guia">Acesso ao Guia</a></li>
     <li><a href="#guia-de-estudos">Guia de Estudos</a></li>
+    <li><a href="#certificações">Certificações</a>
   </ol>
 </details>
 
