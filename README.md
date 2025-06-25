@@ -108,7 +108,8 @@ Para acessar o guia de estudos, navegue pelas pastas do repositório e selecione
 <!-- GUIA DE ESTUDOS -->
 ## Guia de Estudos
 
-- [ ] [AZ-900](https://learn.microsoft.com/pt-br/credentials/certifications/resources/study-guides/az-900) (Em breve)
+- [ ] [AZ-900](https://learn.microsoft.com/pt-br/credentials/certifications/resources/study-guides/az-900)
+    - [ ] Conceitos da Nuvem
 - [ ] [AZ-104](https://learn.microsoft.com/pt-br/credentials/certifications/resources/study-guides/az-104)
     - [ ] Gerenciamento de VMs
     - [ ] Monitoramento
