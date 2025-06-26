@@ -4,14 +4,19 @@
 
 
 <!-- SHIELDS.IO -->
-[![Última atualização][last-commit-shield]][repo-url]
-[![Versão][version-shield]][repo-url]
-[![Status][status-shield]][repo-url]  
-[![Stargazers][stars-shield]][stars-url]
-[![project_license][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-[![Azure][azure-shield]][azure-url]
-[![Microsoft Learn][learn-shield]][learn-url]
+<div align="center">
+
+  
+  [![Última atualização][last-commit-shield]][repo-url]
+  [![Versão][version-shield]][repo-url]
+  [![Status][status-shield]][repo-url]  
+  [![Stargazers][stars-shield]][stars-url]
+  [![project_license][license-shield]][license-url]
+  [![LinkedIn][linkedin-shield]][linkedin-url]
+  [![Azure][azure-shield]][azure-url]
+  [![Microsoft Learn][learn-shield]][learn-url]
+  
+</div>
 
 
 
