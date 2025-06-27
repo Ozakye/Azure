@@ -146,7 +146,7 @@ Veja a [lista completa](https://learn.microsoft.com/pt-br/credentials/certificat
 [product-screenshot]: images/screenshot.png
 [last-commit-shield]: https://img.shields.io/github/last-commit/ozakye/Azure.svg?style=for-the-badge
 [repo-url]: https://github.com/ozakye/Azure
-[version-shield]: https://img.shields.io/badge/version-Jun_2025-blue?style=for-the-badge
+[version-shield]: https://img.shields.io/badge/version-Jul_2025-blue?style=for-the-badge
 [status-shield]: https://img.shields.io/badge/status-em%20desenvolvimento-yellow?style=for-the-badge
 [azure-shield]: https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white
 [azure-url]: https://azure.microsoft.com
