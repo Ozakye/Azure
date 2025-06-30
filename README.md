@@ -5,7 +5,6 @@
 
 <!-- SHIELDS.IO -->
 <div align="center">
-
   
   [![Última atualização][last-commit-shield]][repo-url]
   [![Versão][version-shield]][repo-url]
