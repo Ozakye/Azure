@@ -132,11 +132,11 @@ Ao dominar o ciclo completo de vida de uma VM, você estará preparado para entr
 
 ## Links de Referências
 
-- [Documentação oficial do Azure VMs](https://learn.microsoft.com/azure/virtual-machines/)
-- [Azure CLI Documentation](https://learn.microsoft.com/cli/azure/)
-- [Azure Monitor Documentation](https://learn.microsoft.com/azure/azure-monitor/)
-- [Azure Automation](https://learn.microsoft.com/azure/automation/)
-- [Azure DevOps](https://azure.microsoft.com/services/devops/)
+- [Documentação oficial do Azure VMs](https://learn.microsoft.com/azure/virtual-machines)
+- [Introduction to Azure VMs](https://learn.microsoft.com/learn/modules/intro-to-azure-virtual-machines)
+- [Azure Monitor Documentation](https://learn.microsoft.com/azure/azure-monitor)
+- [Azure CLI Documentation](https://learn.microsoft.com/cli/azure)
+- [Azure Automation](https://learn.microsoft.com/azure/automation)
+- [Azure DevOps](https://azure.microsoft.com/services/devops)
+- [Azure Bicep](https://learn.microsoft.com/azure/azure-resource-manager/bicep)
 - [Terraform Azure Provider](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs)
-- [Azure Bicep](https://learn.microsoft.com/azure/azure-resource-manager/bicep/)
-- [Microsoft Learn: Introduction to Azure VMs](https://learn.microsoft.com/learn/modules/intro-to-azure-virtual-machines/)
