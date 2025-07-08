@@ -119,8 +119,8 @@ Ao usar os recursos nativos do Azure e do Entra ID, as organizações podem simp
 ## Links de Referências
 
 - [Documentação oficial do Azure Virtual Machines](https://learn.microsoft.com/azure/virtual-machines)
-- [Gerenciar máquinas virtuais do Azure](https://learn.microsoft.com/pt-br/system-center/vmm/manage-azure-vms)
-- [Gerencie VMs usando autenticação e autorização baseadas em ID do Microsoft Entra e assinaturas do Azure específicas da região](https://learn.microsoft.com/pt-br/system-center/vmm/vms-manage-azure-ad-and-region-specific)
-- [Criar e gerenciar as VMs do Windows com o Azure PowerShell](https://learn.microsoft.com/pt-br/azure/virtual-machines/windows/tutorial-manage-vm)
 - [O que é o gerenciamento de VM local do Azure?](https://learn.microsoft.com/pt-br/azure/azure-local/manage/azure-arc-vm-management-overview?view=azloc-2505)
+- [Gerenciar máquinas virtuais do Azure](https://learn.microsoft.com/pt-br/system-center/vmm/manage-azure-vms)
+- [Criar e gerenciar as VMs do Windows com o Azure PowerShell](https://learn.microsoft.com/pt-br/azure/virtual-machines/windows/tutorial-manage-vm)
 - [Gerenciar uma VM do Windows usando o Windows Admin Center no Azure](https://learn.microsoft.com/pt-br/windows-server/manage/windows-admin-center/azure/manage-vm)
+- [Gerencie VMs usando autenticação e autorização baseadas em ID do Microsoft Entra e assinaturas do Azure específicas da região](https://learn.microsoft.com/pt-br/system-center/vmm/vms-manage-azure-ad-and-region-specific)
