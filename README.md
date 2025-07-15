@@ -23,7 +23,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Ozakye/Azure/blob/main/README.md">
-    <img src="images/Microsoft_Azure.svg.png" alt="Logo" width="80" height="80">
+    <img src="images/Microsoft-Azure.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Azure</h3>
