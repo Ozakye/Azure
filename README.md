@@ -1,7 +1,8 @@
+<!-- Best-README-Template
+https://github.com/othneildrew/Best-README-Template -->
+
 <!-- VOLTAR AO TOPO -->
 <a id="readme-top"></a>
-
-
 
 <!-- SHIELDS.IO -->
 <div align="center">
@@ -16,8 +17,6 @@
   [![Microsoft Learn][learn-shield]][learn-url]
   
 </div>
-
-
 
 <!-- LOGO DO PROJETO -->
 <br />
@@ -42,8 +41,6 @@
   </p>
 </div>
 
-
-
 <!-- SUMÁRIO -->
 <details>
   <summary>Sumário</summary>
@@ -63,8 +60,6 @@
   </ol>
 </details>
 
-
-
 <!-- SOBRE O PROJETO -->
 ## Sobre o Projeto
 
@@ -80,16 +75,12 @@ Gostaria também de destacar a qualidade dos cursos oferecidos pela [DIO (Digita
 
 <p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
 
-
-
 <!-- ATUALIZAÇÃO DO GUIA -->
 ## Atualização do Guia
 
 Os ambientes de computação em nuvem estão em constante evolução. Por esse motivo, é recomendável sempre verificar a data de publicação dos materiais consultados, pois em poucos meses o conteúdo pode se tornar desatualizado.
 
 A forma mais segura de se manter informado é acompanhar regularmente as novidades e atualizações nos sites oficiais da Microsoft sobre o Azure. Em caso de dúvidas, a documentação oficial da Microsoft deve ser sua principal fonte de consulta.
-
-
 
 <!-- MICROSOFT LEARN -->
 ### Microsoft Learn
@@ -98,8 +89,6 @@ O site oficial do [Microsoft Learn](https://learn.microsoft.com/) fornece as úl
 
 <p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
 
-
-
 <!-- ACESSO AO GUIA -->
 ## Acesso ao Guia
 
@@ -107,22 +96,18 @@ Para acessar o guia de estudos, navegue pelas pastas do repositório e selecione
 
 <p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
 
-
-
 <!-- GUIA DE ESTUDOS -->
 ## Guia de Estudos
 
 - [ ] [AZ-900](https://learn.microsoft.com/pt-br/credentials/certifications/resources/study-guides/az-900)
     - [ ] Conceitos da Nuvem
-- [ ] [AZ-104](https://learn.microsoft.com/pt-br/credentials/certifications/resources/study-guides/az-104)
-    - [ ] Gerenciamento de VMs
-    - [ ] Monitoramento
+- [X] [AZ-104](https://learn.microsoft.com/pt-br/credentials/certifications/resources/study-guides/az-104)
+    - [X] Gerenciamento de VMs
+    - [X] Monitoramento
 
 Veja a [lista completa](https://learn.microsoft.com/pt-br/credentials/certifications/resources/study-guides/ai-102) de guia de estudos para certificações no site oficial da Microsoft.
 
 <p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
-
-
 
 <!-- CERTIFICAÇÕES -->
 ## Certificações
@@ -131,8 +116,6 @@ Veja a [lista completa](https://learn.microsoft.com/pt-br/credentials/certificat
 * [AZ-104]() (Em breve)
 
 <p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
-
-
 
 <!-- MARKDOWN LINKS & IMAGENS -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
