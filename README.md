@@ -8,8 +8,6 @@ https://github.com/othneildrew/Best-README-Template -->
 <div align="center">
   
   [![Última atualização][last-commit-shield]][repo-url]
-  [![Versão][version-shield]][repo-url]
-  [![Status][status-shield]][repo-url]  
   [![Stargazers][stars-shield]][stars-url]
   [![project_license][license-shield]][license-url]
   [![LinkedIn][linkedin-shield]][linkedin-url]
@@ -99,21 +97,13 @@ Para acessar o guia de estudos, navegue pelas pastas do repositório e selecione
 <!-- GUIA DE ESTUDOS -->
 ## Guia de Estudos
 
-- [ ] [AZ-900](https://learn.microsoft.com/pt-br/credentials/certifications/resources/study-guides/az-900)
-    - [ ] Conceitos da Nuvem
-- [X] [AZ-104](https://learn.microsoft.com/pt-br/credentials/certifications/resources/study-guides/az-104)
-    - [X] Gerenciamento de VMs
-    - [X] Monitoramento
+- [AZ-900](https://learn.microsoft.com/pt-br/credentials/certifications/resources/study-guides/az-900)
+    - Conceitos da Nuvem
+- [AZ-104](https://learn.microsoft.com/pt-br/credentials/certifications/resources/study-guides/az-104)
+    - Gerenciamento de VMs
+    - Monitoramento
 
 Veja a [lista completa](https://learn.microsoft.com/pt-br/credentials/certifications/resources/study-guides/ai-102) de guia de estudos para certificações no site oficial da Microsoft.
-
-<p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
-
-<!-- CERTIFICAÇÕES -->
-## Certificações
-
-* [AZ-900]() (Em breve)
-* [AZ-104]() (Em breve)
 
 <p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
 
@@ -128,8 +118,6 @@ Veja a [lista completa](https://learn.microsoft.com/pt-br/credentials/certificat
 [product-screenshot]: images/screenshot.png
 [last-commit-shield]: https://img.shields.io/github/last-commit/ozakye/Azure.svg?style=for-the-badge
 [repo-url]: https://github.com/ozakye/Azure
-[version-shield]: https://img.shields.io/badge/version-Jul_2025-blue?style=for-the-badge
-[status-shield]: https://img.shields.io/badge/status-em%20desenvolvimento-yellow?style=for-the-badge
 [azure-shield]: https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white
 [azure-url]: https://azure.microsoft.com
 [learn-shield]: https://img.shields.io/badge/Microsoft_Learn-00ADEF?style=for-the-badge&logo=microsoft&logoColor=white
