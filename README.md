@@ -7,7 +7,6 @@ https://github.com/othneildrew/Best-README-Template -->
 <!-- SHIELDS.IO -->
 <div align="center">
   
-  [![Última atualização][last-commit-shield]][repo-url]
   [![Stargazers][stars-shield]][stars-url]
   [![project_license][license-shield]][license-url]
   [![LinkedIn][linkedin-shield]][linkedin-url]
@@ -115,10 +114,9 @@ Veja a [lista completa](https://learn.microsoft.com/pt-br/credentials/certificat
 [license-url]: https://github.com/ozakye/Azure/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/ozaky
-[product-screenshot]: images/screenshot.png
-[last-commit-shield]: https://img.shields.io/github/last-commit/ozakye/Azure.svg?style=for-the-badge
-[repo-url]: https://github.com/ozakye/Azure
 [azure-shield]: https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white
 [azure-url]: https://azure.microsoft.com
 [learn-shield]: https://img.shields.io/badge/Microsoft_Learn-00ADEF?style=for-the-badge&logo=microsoft&logoColor=white
 [learn-url]: https://learn.microsoft.com
+[product-screenshot]: images/screenshot.png
+[repo-url]: https://github.com/ozakye/Azure
