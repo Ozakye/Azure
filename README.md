@@ -19,7 +19,7 @@ https://github.com/othneildrew/Best-README-Template -->
 <br />
 <div align="center">
   <a href="https://github.com/Ozakye/Azure/blob/main/README.md">
-    <img src="images/Microsoft-Azure.png" alt="Logo" width="80" height="80">
+    <img src="images/Microsoft_Azure.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Azure</h3>
@@ -60,7 +60,7 @@ https://github.com/othneildrew/Best-README-Template -->
 <!-- SOBRE O PROJETO -->
 ## Sobre o Projeto
 
-![Banner Azure][banner-azure]
+[![Banner Azure][banner-azure]][azure-url]
 
 Este repositório foi desenvolvido como parte dos desafios finais do bootcamp [Microsoft – Azure Administrator Certification (AZ-104)](https://www.dio.me/bootcamp/microsoft-az-104-certification), com o objetivo de consolidar os conhecimentos adquiridos e criar um guia de estudos voltado a novos alunos, instrutores e demais interessados na área.
 
