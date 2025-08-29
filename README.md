@@ -60,7 +60,7 @@ https://github.com/othneildrew/Best-README-Template -->
 <!-- SOBRE O PROJETO -->
 ## Sobre o Projeto
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+![Banner Azure][banner-azure]
 
 Este repositório foi desenvolvido como parte dos desafios finais do bootcamp [Microsoft – Azure Administrator Certification (AZ-104)](https://www.dio.me/bootcamp/microsoft-az-104-certification), com o objetivo de consolidar os conhecimentos adquiridos e criar um guia de estudos voltado a novos alunos, instrutores e demais interessados na área.
 
@@ -118,5 +118,5 @@ Veja a [lista completa](https://learn.microsoft.com/pt-br/credentials/certificat
 [azure-url]: https://azure.microsoft.com
 [learn-shield]: https://img.shields.io/badge/Microsoft_Learn-00ADEF?style=for-the-badge&logo=microsoft&logoColor=white
 [learn-url]: https://learn.microsoft.com
-[product-screenshot]: images/screenshot.png
+[banner-azure]: images/Banner_Azure.png
 [repo-url]: https://github.com/ozakye/Azure
